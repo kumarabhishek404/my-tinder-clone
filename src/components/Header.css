@@ -22,6 +22,15 @@
     justify-content: center;
     align-items: center;
 }
+.header_profile {
+    object-fit: contain;
+    font-size: 15px;
+    color: #fff;
+    text-shadow: 0 10px 43px 0 rgba(0, 0, 0, 0.3) !important;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 
 .header_icon {
     padding: 20px;
